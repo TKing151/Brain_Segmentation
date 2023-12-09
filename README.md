@@ -1,6 +1,7 @@
 # Brain_Segmentation
 
 ### Small project analyzing U-NET CNN for semantic Tumor segmentation
+#### The paper 'U-Net: Convolutional Networks for Biomedical Image Segmentation' was first introduced in 2015 by by Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-NET is a fast and accurate tool for semantic segmentation tasks. 
 
 ## The Process:
 
